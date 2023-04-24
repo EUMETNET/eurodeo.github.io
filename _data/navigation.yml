@@ -1,0 +1,19 @@
+main:
+  - title: "RODEO"
+    url: /rodeo/
+  - title: People
+    url: /people/
+  - title: Documentation
+    url: /documentation/
+  - title: Something else
+    url: /some-url
+
+rodeo:
+  - title: "RODEO"
+    url: /rodeo/
+  - title: People
+    url: /people/
+  - title: Documentation
+    url: /documentation/
+  - title: Something else
+    url: /some-url

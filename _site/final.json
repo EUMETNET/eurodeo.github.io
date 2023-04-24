@@ -1,0 +1,611 @@
+{
+  "fields": [
+    {
+      "key": "name",
+      "label": "Nimi",
+      "sortable": true
+    },
+    {
+      "key": "licence",
+      "label": "Lisenssi",
+      "sortable": true
+    },
+    {
+      "key": "personal_data",
+      "label": "Henkilötietoja",
+      "sortable": true
+    }
+  ],
+  "items": [
+    {
+      "name": "Aallokko- ja pintavirtaushavainnot",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Airport Forecast",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "ARS",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Avaruussäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "AWS opendata tutkadata",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "CTD-luotaukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "EARS/AVHRR",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "EARS/VIIRS",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF calibrated",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Deterministinen (HRES)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Deterministinen Post-prosessoitu (HIMAN)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Deterministinen Post-prosessoitu (KALMAN-filter)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Deterministinen Post-prosessoitu (MOS)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Eurooppa",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Maailma",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Parviennuste (ENS)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Parviennuste Eurooppa",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Parviennuste Maailma",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "ECMWF Skandinavia",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Espanjan pintasäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "FMI-BLEND",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "FMIPPN",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "GFS",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "GOES-EAST/ABI",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "GOES-WEST/ABI",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Himawari-8/AHI",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "HIRLAM",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ilmanlaadun laboratoriomittaukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ilmanlaatuhavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ilmastolliset vertailuarvot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Jokien virtaamahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Järvien pintalämpötilahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Jäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Kastepisteindeksi",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Kuntien ja kaupunkien ilmanlaatuhavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Kuntien ja kaupunkien ilmanlaatuhavaintojen hetkelliset havainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "LAPS",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Lentosäätuotteet",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Lidar havainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "LLF",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Lumen vesiarvohavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Lumilinjamittukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Lumilinjamittukset (SYKE)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Lumimittaukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Luova tiedote",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Maaperän lämpötilat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Magnetismihavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Mastohavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Mastohavaintojen hetkelliset arvot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "MEPS",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Merihavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Meriveden korkeuden tilastolliset arvot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Meriveden lämpötilahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "METAR",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Metcoop nowcast",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Meteorologin ennuste",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Meteosat/SEVIRI 0 Degree Service",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Meteosat/SEVIRI Indian Ocean Data Coverage",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Meteosat/SEVIRI Rapid Scan Service",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Metop-polaarisatelliittidatat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Metsäpalovaroitus",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Muun Pohjois-Euroopan salamahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "NetAtmo",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "NOAA-polaarisatelliittidatat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Norjan tiesäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "NSWC",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "NWCSAF GEO v2016",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "NWCSAF GEO v2018",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "NWCSAF PPS v2014",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "NWCSAF PPS v2018",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Pintasäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Pintasäähavaintojen hetkelliset arvot",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Pintasäähavaintojen tuntiarvot",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Pintasäähavaintojen vuorokausi- ja kuukausiarvot",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Pohjavesihavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Radioaktiivisuushavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Radioaktiivisuushavainnot (STUK)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "RAVAKE",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Revontulikameroiden kuvat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Roadkriking",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Routahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ruotsin pintasäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ruotsin tiesäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Salamahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Satelliittihavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "SIGMET",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "SIGWX",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "SILAM-ilmanlaatuennusteet",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Sisävesihavainnot (SYKE)",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Smartmet nowcast",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen salamahavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen sääluotaukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen säätutkien kuvat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen säätutkien tuuliprofiilit",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen tiesäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen ulkopuoliset BALTRAD-tutkadatat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen ulkopuoliset OPERA-tutkadatat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Suomen ulkopuoliset Viron tutkadatat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Sää-, meri- ja tulvavaroitus",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Sääluotaukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Säätutkat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "TAF",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Taustailmanlaadun hetkelliset arvot",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Taustailmanlaadun tuntiarvot",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Tiesäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Tiesäämalli",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "Tuliset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "tutka polaaridatat",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ulkomaiden magnetismihavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ulkomaiden pintasäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Ulkomaiden sääluotaukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Varoitukset",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Venäjän tiesäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "Viron tiesäähavainnot",
+      "licence": "",
+      "personal_data": ""
+    },
+    {
+      "name": "WAFS",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "WXREP",
+      "licence": "",
+      "personal_data": "ei"
+    },
+    {
+      "name": "WXRNG",
+      "licence": "",
+      "personal_data": "ei"
+    }
+  ]
+}

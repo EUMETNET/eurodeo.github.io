@@ -1,0 +1,66 @@
+@-webkit-keyframes intro {
+}
+@keyframes intro {
+}
+
+body {
+  background-color: #05bb9b;
+}
+
+.masthead {
+  border-bottom: none;
+}
+
+#site-nav {
+  background-color: #05bb9b;
+}
+
+.greedy-nav a {
+  color: #1f4751;
+}
+
+.page__hero--overlay .page__lead {
+  color: #d1f2df
+}
+
+.page__hero--overlay .btn {
+  width: 142px;
+  height: 59px;
+  margin: 22px 475px 0 0.5px;
+  padding: 19.5px 20px;
+  border-radius: 4px;
+  background-color: #3ee78a;
+  font-family: 'Figtree';
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #1f4751
+}
+
+.feature__item a.btn {
+  width: 142px;
+  height: 47px;
+  border-radius: 4px;
+  background-color: #1f4751;
+  font-family: Figtree;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #d1f2df
+}
+
+body {
+  font-family: 'Figtree';
+  color: #1f4751
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Figtree';
+}

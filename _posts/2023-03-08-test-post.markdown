@@ -1,0 +1,15 @@
+---
+layout: single
+title: "Test post!"
+date: 2023-03-08 15:40:08 +0200
+categories: jekyll test
+---
+
+# Just testing stuff out
+
+Mention rodeo here too to test the search functionality.
+
+```python
+def main()
+    print("foo")
+```
