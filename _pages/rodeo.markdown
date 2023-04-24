@@ -21,8 +21,8 @@ catalogue, subscription services, joint API management and common formats to sup
 designed to make weather data open and available and to unite both the data providers and consumers, thereby making a significant impact in Europe. Substantial
 efficiency is gained from aligning the project objectives and goals to EUMETNET and NMHSs future strategies.  
 
+![Group photo](/assets/images/IMG_5338.JPEG "Group photo")
 
-![Rodeo is hardcore](https://upload.wikimedia.org/wikipedia/commons/3/37/Rodeo%2C_K%C3%A4lberfangen.jpg) Rodeo is hardcore
 
 ## People
 
