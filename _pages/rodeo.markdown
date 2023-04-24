@@ -2,8 +2,7 @@
 layout: single
 title: RODEO
 permalink: /rodeo/
-sidebar:
-  nav: "rodeo"
+classes: wide
 ---
 
 ## Introduction
