@@ -1,7 +1,7 @@
 ---
 layout: single
-title: RODEO
-permalink: /rodeo/
+title: Documentation
+permalink: /documentation/
 ---
 
 Otsikko
