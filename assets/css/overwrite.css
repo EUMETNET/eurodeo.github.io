@@ -68,3 +68,24 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Figtree';
 }
+
+.footer-container {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  vertical-align: text-top;
+}
+
+.footer-image {
+  vertical-align: text-top;
+}
+
+.footer-text p {
+  padding-left: 100px;
+  margin-block-start: 0;
+  margin-bottom: 0;
+}
+
+.footer-text a {
+  color: #d1f2df;
+}
