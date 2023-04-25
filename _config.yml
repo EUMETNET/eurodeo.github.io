@@ -31,6 +31,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: EURODEO
 repository: oksman/oksman.github.io
 
+footer:
+  links:
+    - label: GitHub
+      url: https://github.com/eurodeo
+
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"

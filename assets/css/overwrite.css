@@ -7,6 +7,10 @@ body {
   background-color: #d1f2df;
 }
 
+.page__footer {
+  background-color: #1f4751;
+}
+
 .masthead {
   border-bottom: none;
 }
