@@ -1,9 +1,11 @@
 main:
-  - title: "RODEO"
-    url: /rodeo/
+  - title: "About"
+    url: /about/
+  - title: Project Activities
+    url: /projectactivitites/
+  - title: News
+    url: /news/
+  - title: FAQ
+    url: /faq/
   - title: Contacts
-    url: /people/
-  - title: Documentation
-    url: /documentation/
-  - title: About
-    url: /about
+    url: /contacts/
