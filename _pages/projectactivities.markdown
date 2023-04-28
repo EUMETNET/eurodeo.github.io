@@ -2,6 +2,7 @@
 layout: single
 title: Project Activities
 permalink: /projectactivities/
+classes: wide
 ---
 
 # Introduction of Project Activities
