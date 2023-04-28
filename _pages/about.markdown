@@ -19,3 +19,9 @@ RODEO will strengthen the capability of the public European meteorological data 
 catalogue, subscription services, joint API management and common formats to support the development of information products and services and AI applications. RODEO is
 designed to make weather data open and available and to unite both the data providers and consumers, thereby making a significant impact in Europe. Substantial
 efficiency is gained from aligning the project objectives and goals to EUMETNET and NMHSs future strategies.
+
+## Project Aims & Goals
+
+## Impact on users
+
+## Partners
