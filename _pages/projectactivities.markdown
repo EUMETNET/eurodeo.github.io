@@ -7,7 +7,7 @@ classes: wide
 
 
 
-## Userinterface
+## User interface
 
 ## Real-time Met data
 
