@@ -24,7 +24,7 @@ To achieve these objectives, the project will develop APIs for warnings that all
 warning data, and make it available in real-time via bulk download and querying over cross-border domains. This will involve coordination with data providers, re-users,
 and international framework activities related to the Common Alerting Protocol (CAP).
 
-MeteoAlarm website: https://www.meteoalarm.org/en/live/
+MeteoAlarm website for more information: https://www.meteoalarm.org/en/live/
 
 ## Climate met data
 
