@@ -5,7 +5,7 @@ permalink: /projectactivities/
 classes: wide
 ---
 
-# Introduction of Project Activities
+
 
 ## Userinterface
 
