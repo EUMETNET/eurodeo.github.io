@@ -6,7 +6,6 @@ classes: wide
 ---
 
 
-
 ## User interface
 
 ## Real-time Met data
@@ -23,8 +22,6 @@ preparedness and response at both the national and international level.
 To achieve these objectives, the project will develop APIs for warnings that allow machine-readable access to the data, improve the quality and harmonisation of
 warning data, and make it available in real-time via bulk download and querying over cross-border domains. This will involve coordination with data providers, re-users,
 and international framework activities related to the Common Alerting Protocol (CAP).
-
-MeteoAlarm website for more information: https://www.meteoalarm.org/en/live/
 
 ## Climate met data
 
