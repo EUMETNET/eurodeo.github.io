@@ -24,7 +24,7 @@ body {
 }
 
 .page__hero--overlay .page__lead {
-  color: #d1f2df
+  color: #d1f2df;
 }
 
 .page__hero--overlay .btn {
@@ -42,7 +42,9 @@ body {
   line-height: 1.25;
   letter-spacing: 0.2px;
   text-align: center;
-  color: #1f4751
+  color: #1f4751;
+  text-shadow: none;
+  border: none;
 }
 
 .feature__item a.btn {
@@ -62,12 +64,35 @@ body {
   color: #d1f2df
 }
 
+.feature__wrapper {
+  border-bottom: none;
+}
+
+.greedy-nav a:hover {
+  color: #1f4751;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #3ee78a;
+}
+
+#page-title {
+  color: #d1f2df;
+}
+
 body {
   font-family: 'Figtree';
   color: #1f4751
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Figtree';
+}
+
+.page__content h2 {
+  border-bottom: 1px solid #1f4751;
+}
+
+.page__content {
 }
 
 .footer-container {
@@ -89,4 +114,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer-text a {
   color: #d1f2df;
+}
+
+.footer-logos {
+  max-width: 100px;
+  margin-left: 20px;
+  display: flex;
 }

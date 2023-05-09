@@ -7,36 +7,33 @@ author_profile: true
 layout: splash
 
 header: 
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/rodeo-hero.webp
+  overlay_color: "#fff"
+  overlay_filter: "0"
+  overlay_image: assets/images/rodeo-hero@3x.webp
   actions:
   - label: "Explore more"
-    url: "https://github.com/EURODEO"
+    url: "/about"
 
 excerpt: "The provision of open access to public meteorological data and development of shared federated data infrastructure for the development of information products and services."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 feature_row:
   - image_path: /assets/images/img-sample-01.webp
     alt: "rodeo1"
-    title: "Open Access"
-    url: "/rodeo"
-    excerpt: "The provision of open access to public meteorological data and development of shared federated data infrastructure for the development of information products and services."
+    title: "Project Activities"
+    url: "/projectactivities"
+    excerpt: "Introduction to the project content and activities. Description of plans for providing tools to access open meteorological data."
     btn_label: "Explore more"
   - image_path: /assets/images/img-sample-02.webp
     alt: "rodeo2"
-    title: "Meteorological Data"
-    url: "/rodeo"
-    excerpt: "The provision of open access to public meteorological data and development of shared federated data infrastructure for the development of information products and services."
+    title: "News"
+    url: "/news"
+    excerpt: "Project news and articles, upcoming events with RODEO representatives and other communication and engagement activities."
     btn_label: "Explore more"
-
   - image_path: /assets/images/img-sample-02.webp
     alt: "rodeo2"
-    title: "Data and Development"
-    url: "/rodeo"
-    excerpt: "The provision of open access to public meteorological data and development of shared federated data infrastructure for the development of information products and services."
+    title: "Contacts"
+    url: "/contacts"
+    excerpt: "Contact us – please ask, inquire, request, approach, invite, collaborate. We are looking forward to talking and meeting with you!"
     btn_label: "Explore more"
 
 
