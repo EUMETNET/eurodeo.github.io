@@ -116,8 +116,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #d1f2df;
 }
 
-.footer-logos {
-  max-width: 100px;
+.footer-logos img {
+  height: 100px;
   margin-left: 20px;
-  display: flex;
 }
