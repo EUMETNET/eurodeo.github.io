@@ -31,15 +31,27 @@ designed to make weather data open and available and to unite both the data prov
 (logos to be added)
 
 Ilmatieteen laitos, Finnish Meteorological Institute (FMI)
+
 Danmarks Meteorologiske Institut, Danish Meteorological Institute (DMI)
+
 European Centre for Medium-Range Weather Forecasts (ECMWF)
+
 Orszagos Meteorologiai Szolgalat, Hungarian Meteorological Service (OMSZ)
+
 Bundesanstalt für Geologie, Geophysik, Klimatologie und Meteorologie, GeoSphere Austria
+
 Koninklijk Nederlands Meteorologisch Institutt, Royal Netherlands Meteorological Institute (KNMI)
+
 Latvijas Vides, Geologijas un Meteorologijas Centrs Sia, Latvian Environment, Geology and Meteorology Centre (LVGMC)
+
 EUMETNET Groupement D’Interet Economique, EUMETNET
+
 Meteorologisk Institutt, Norwegian Meteorological Institute (Met Norway)
+
 Administratia Nationala De Meteorologie R.A., National Administration of Meteorology of Romania (ANM)
+
 Vedurstofa Islands, Icelandic Meteorological Office (IMO)
+
 Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy, Institute of Meteorology and Water Management - National Research Institute of Poland (IMGW-PIB)
+
 Institut Royal Meteorologique de Belgique, NSTITUT ROYAL METEOROLOGIQUE DE Belgique, Royal Meteorological Institute of Belgium (IRM)
