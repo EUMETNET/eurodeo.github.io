@@ -32,8 +32,8 @@ designed to make weather data open and available and to unite both the data prov
 
 Ilmatieteen laitos, Finnish Meteorological Institute (FMI)
 
-![FMI logo](/assets/images/il-logo-fi-se-en-rgb-1860x345px.png "FMI logo") 
-      <img src="il-logo-fi-se-en-rgb-1860x345px.png" width="60%" height="80%">
+![FMI logo](/assets/images/il-logo-fi-se-en-rgb-1860x345px.png "FMI logo")
+      <img src="FMI logo" width="60%" height="80%">
 
 Danmarks Meteorologiske Institut, Danish Meteorological Institute (DMI)
 
