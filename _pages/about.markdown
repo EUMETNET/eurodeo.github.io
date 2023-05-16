@@ -32,11 +32,19 @@ designed to make weather data open and available and to unite both the data prov
 
 Ilmatieteen laitos, Finnish Meteorological Institute (FMI)
 
+![FMI logo](/assets/images/il-logo-fi-se-en-rgb-1860x345px.png "FMI logo")
+
 Danmarks Meteorologiske Institut, Danish Meteorological Institute (DMI)
+
+![DMI logo](/assets/images/DMI_RGB_UK.png "DMI logo")
 
 European Centre for Medium-Range Weather Forecasts (ECMWF)
 
+![ECMWF logo](/assets/images/ECMWF_Master_Logo_RGB_nostrap.png "ECMWF logo")
+
 Orszagos Meteorologiai Szolgalat, Hungarian Meteorological Service (OMSZ)
+
+![Group photo](/assets/images/ "Group photo")
 
 Bundesanstalt für Geologie, Geophysik, Klimatologie und Meteorologie, GeoSphere Austria
 
@@ -46,9 +54,13 @@ Latvijas Vides, Geologijas un Meteorologijas Centrs Sia, Latvian Environment, Ge
 
 EUMETNET Groupement D’Interet Economique, EUMETNET
 
+![EUMETNET logo](/assets/images/EUMETNETLogo_FullColourHorizontal.jpg "EUMETNET logo")
+
 Meteorologisk Institutt, Norwegian Meteorological Institute (Met Norway)
 
 Administratia Nationala De Meteorologie R.A., National Administration of Meteorology of Romania (ANM)
+
+![ANM logo](/assets/images/ANM_logo_horizontal.svg "ANM logo")
 
 Vedurstofa Islands, Icelandic Meteorological Office (IMO)
 
