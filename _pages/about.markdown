@@ -45,13 +45,19 @@ European Centre for Medium-Range Weather Forecasts (ECMWF)
 
 Orszagos Meteorologiai Szolgalat, Hungarian Meteorological Service (OMSZ)
 
-![Group photo](/assets/images/ "Group photo")
+![OMSZ logo](/assets/images/OMSZ_Logo.png "OMSZ logo")
 
 Bundesanstalt für Geologie, Geophysik, Klimatologie und Meteorologie, GeoSphere Austria
 
+![Geosphere logo](/assets/images/GeoSphereAustria_Basislogo_Positiv_RGB_XL.jpg "Geosphere logo")
+
 Koninklijk Nederlands Meteorologisch Institutt, Royal Netherlands Meteorological Institute (KNMI)
 
+![KNMI logo](/assets/images/IW_KNMI_Logo_online_ex_pos_en.png "KNMI logo")
+
 Latvijas Vides, Geologijas un Meteorologijas Centrs Sia, Latvian Environment, Geology and Meteorology Centre (LVGMC)
+
+![Latvia logo](/assets/images/LEGMC_Latvia_logo.pdf "Latvia logo")
 
 EUMETNET Groupement D’Interet Economique, EUMETNET
 
@@ -59,12 +65,17 @@ EUMETNET Groupement D’Interet Economique, EUMETNET
 
 Meteorologisk Institutt, Norwegian Meteorological Institute (Met Norway)
 
+![MetNo logo](/assets/images/MetNorway_RGB_Horisontal_ENG.jpg "MetNo logo")
+
 Administratia Nationala De Meteorologie R.A., National Administration of Meteorology of Romania (ANM)
 
 ![ANM logo](/assets/images/ANM_logo_horizontal.svg "ANM logo")
 
 Vedurstofa Islands, Icelandic Meteorological Office (IMO)
 
+![IMO logo](/assets/images/IMO-Logo-EN-01-Blue.png "IMO logo")
+
 Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy, Institute of Meteorology and Water Management - National Research Institute of Poland (IMGW-PIB)
 
 Institut Royal Meteorologique de Belgique, NSTITUT ROYAL METEOROLOGIQUE DE Belgique, Royal Meteorological Institute of Belgium (IRM)
+
