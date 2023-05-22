@@ -57,7 +57,7 @@ Koninklijk Nederlands Meteorologisch Institutt, Royal Netherlands Meteorological
 
 Latvijas Vides, Geologijas un Meteorologijas Centrs Sia, Latvian Environment, Geology and Meteorology Centre (LVGMC)
 
-![Latvia logo](/assets/images/LEGMC_Latvia_logo.pdf "Latvia logo")
+![Latvia logo](/assets/images/LVGMC_full-2000.png "Latvia logo")
 
 EUMETNET Groupement D’Interet Economique, EUMETNET
 
@@ -76,6 +76,8 @@ Vedurstofa Islands, Icelandic Meteorological Office (IMO)
 ![IMO logo](/assets/images/IMO-Logo-EN-01-Blue.png "IMO logo")
 
 Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy, Institute of Meteorology and Water Management - National Research Institute of Poland (IMGW-PIB)
+
+![IMGW logo](/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png "IMGW logo") 
 
 Institut Royal Meteorologique de Belgique, NSTITUT ROYAL METEOROLOGIQUE DE Belgique, Royal Meteorological Institute of Belgium (IRM)
 
