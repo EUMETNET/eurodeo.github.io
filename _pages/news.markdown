@@ -11,7 +11,7 @@ An introduction to the project will be presented at DataWeek session [Towards th
 
 Come and meet us at the venue!     
 
-![DataWeek!](/assets/images/DataWeek2023.png "DataWeek")
+![DataWeek!](/assets/images/DataWeek2023_small.png "DataWeek")
 
 ## Project Kick-off Meeting held 1-2 March 2023
 
