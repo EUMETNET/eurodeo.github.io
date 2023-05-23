@@ -7,8 +7,7 @@ classes: wide
 
 ### Meet RODEO at DataWeek 2023, 13-14 June 2023 in Luleå
 
-An introduction to the project will be presented at DataWeek session [Towards the implementation of High Value Datasets – First hands on](https://data-week.eu/session/towards
-the-implementation-of-high-value-datasets-first-hands-on/) along with its sister DIGITAL AI projects.
+An introduction to the project will be presented at DataWeek session [Towards the implementation of High Value Datasets – First hands on](https://data-week.eu/session/towards-the-implementation-of-high-value-datasets-first-hands-on/) along with its sister DIGITAL AI projects.
 
 Come and meet as after the session!
 
