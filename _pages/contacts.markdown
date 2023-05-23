@@ -5,8 +5,8 @@ permalink: /contacts/
 classes: wide
 ---
 
-## Project Contacts
+## Contact us
 
-Contact us – please ask, inquire, request, approach, invite and collaborate with us by sending a message to <rodeoproject@fmi.fi>.
+Please ask, inquire, request, approach, invite and collaborate with us by sending a message to <rodeoproject@fmi.fi>.
 
 We are looking forward to talking and meeting with you! 
