@@ -11,19 +11,15 @@ The Provision of Open Access to Public Meteorological Data and Development of Sh
 Services (RODEO) project is a joint effort by eleven European National Meteorological and Hydrological Services NMHSs, the European Centre for Medium-Range Weather
 Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). The Project Partners are listed in a section below. 
 
-The RODEO project develops a user interface and Application Programming Interfaces (APIs) for meteorological datasets declared as High Value Datasets (HVD) by the EU
+The RODEO project develops a user interface and Application Programming Interfaces (API) for meteorological datasets declared as High Value Datasets (HVD) by the EU
 Implementing Regulation (EU) 2023/138 under the EU Open Data Directive (EU) 2019/1024. The project also fosters the engagement between data providers and data users for
-enhancing the understanding of technical solutions to be available for sharing and accessing the datasets.
+enhancing the understanding of technical solutions to be available for sharing and accessing the HVD datasets.
 
-The meteorological HVD requirements are defined for surface weather observations, climate data, weather warnings, radar data and numerical weather prediction (NWP) data.
-The distribution of data is going to be made available under an open licence, in machine-readable formats using APIs and bulk downloads, and following the FAIR principles
-(usability, accessibility, interoperability and reusability).
+Surface weather observations, climate data, weather warnings, radar data and numerical weather prediction (NWP) data are defined as meteorological high valu datasets.
+The distribution of the dataset is going to be made available under an open licence, in machine-readable formats using APIs and bulk downloads, and following the FAIR
+principles (usability, accessibility, interoperability and reusability).
 
 The project is funded by the EU Digital Europe Program (DEP) and EUMETNET.
-
-RODEO strengthens the capability of the public European meteorological data providers to provide open access to their data via harmonised APIs, common data
-catalogue, subscription services, joint API management and common formats to support the development of information products and services and AI applications. RODEO is
-designed to make weather data open and available and to unite both the data providers and consumers, thereby making a significant impact in Europe. 
 
 ## Project Aims & Goals
 
@@ -42,9 +38,9 @@ The project strengthens the capacity of the European meteorological data provide
 
 ## Impact on users
 
-The increased availability of data boosts entrepreneurship and result in the creation of new companies. New open datasets are an important resource for small and medium
-companies to develop new digital products and services, reuse of data opens business opportunities for several sectors. This ultimately leads attracting more investors.
-There is also more data available for the use of research which enables more results and information for policymaking.
+The increased availability of data boosts entrepreneurship and potentially results in the creation of new companies. New open datasets are an important resource for small and
+medium-sized enterprises to develop new digital products and services, reuse of data opens business opportunities for several sectors. This ultimately leads attracting more
+investors. Reseach, AI applications and many more reuse the data due to  
 
 The project supports AI applications by making meteorological data much easier to use. It also includes dedicated datasets ready for AI  ingestion by data consumers to
 further illustrate to consumers the uses of the data to various purposes. 
