@@ -62,6 +62,7 @@ society.
 <img src="/assets/images/LVGMC_full-2000.png" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourHorizontal.jpg" width="45%" height="45%">
 <br>
 <br>
+<br>
 <img src="/assets/images/MetNorway_RGB_Horisontal_ENG_adjusted.jpg" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/ANM_logo_horizontal.svg" width="35%" height="35%"> 
 <br>
 <br>
