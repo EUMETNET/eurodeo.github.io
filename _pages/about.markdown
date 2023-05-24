@@ -9,7 +9,7 @@ classes: wide
 
 A project called the Provision of Open Access to Public Meteorological Data and Development of Shared Federated Data Infrastructure for the Development of Information Products
 and Services (RODEO) is a joint effort by eleven European National Meteorological and Hydrological Services (NMHS), the European Centre for Medium-Range Weather
-Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). [The Project Partners](https://github.com/EURODEO/eurodeo.github.io/edit/main/_pages/about.markdown#partners) are listed in a section below. 
+Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). [The Project Partners](https://eurodeo.github.io/about#partners) are listed in a section below. 
 
 The RODEO project develops a user interface and Application Programming Interfaces (API) for accessing meteorological datasets declared as High Value Datasets (HVD) by the EU
 Implementing Regulation (EU) 2023/138 under the EU Open Data Directive (EU) 2019/1024. The project also fosters the engagement between data providers and data users for
