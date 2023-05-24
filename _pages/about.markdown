@@ -52,7 +52,7 @@ Ilmatieteen laitos, Finnish Meteorological Institute (FMI)
 
 Danmarks Meteorologiske Institut, Danish Meteorological Institute (DMI)
 
-![DMI logo](/assets/images/DMI_RGB_UK.png "DMI logo")
+![DMI logo](/assets/images/DMI_RGB_UK_small.png "DMI logo")
 
 European Centre for Medium-Range Weather Forecasts (ECMWF)
 
