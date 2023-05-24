@@ -9,7 +9,7 @@ classes: wide
 
 A project called the Provision of Open Access to Public Meteorological Data and Development of Shared Federated Data Infrastructure for the Development of Information Products
 and Services (RODEO) is a joint effort by eleven European National Meteorological and Hydrological Services (NMHS), the European Centre for Medium-Range Weather
-Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). The Project Partners are listed in a section below. 
+Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). [The Project Partners](https://github.com/EURODEO/eurodeo.github.io/edit/main/_pages/about.markdown#partners) are listed in a section below. 
 
 The RODEO project develops a user interface and Application Programming Interfaces (API) for accessing meteorological datasets declared as High Value Datasets (HVD) by the EU
 Implementing Regulation (EU) 2023/138 under the EU Open Data Directive (EU) 2019/1024. The project also fosters the engagement between data providers and data users for
@@ -57,7 +57,7 @@ society.
 <br>
 <br>
 <br>
-<img src="/assets/images/IW_KNMI_IW_KNMI_Logo_online_ex_pos_en.png" width="40%" height="40%" F8F8F8> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="20%" height="20%">  
+<img src="/assets/images/IW_KNMI_Logo_online_ex_pos_en.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="20%" height="20%">  
 
 <img src="/assets/images/LVGMC_full-2000.png" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourHorizontal.jpg" width="45%" height="45%">
 
