@@ -56,7 +56,8 @@ society.
 <br>
 <br>
 <br>
-<img src="/assets/images/IW_KNMI_Logo_online_ex_pos_en_adjusted.png" width="40%" height="40%" F8F8F8> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="20%" height="20%">  
+<br>
+<img src="/assets/images/IW_KNMI_IW_KNMI_Logo_online_ex_pos_en.png" width="40%" height="40%" F8F8F8> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="20%" height="20%">  
 
 <img src="/assets/images/LVGMC_full-2000.png" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourHorizontal.jpg" width="45%" height="45%">
 
