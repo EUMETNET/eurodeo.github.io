@@ -23,12 +23,14 @@ The project is funded by the EU Digital Europe Program (DIGITAL) and EUMETNET.
 
 ## Project Aims & Goals
 
-The project makes meteorological High Value Datasets easily available with an aim to bring new data to businesses, public administrations and citizens. The project reinforces
+The project makes meteorological High Value Datasets easily available with an aim to bring new data to businesses, public
+administrations and citizens. The project reinforces
 the European public meteorological data infrastructure and enhances the providers’ digital capacity to share data.
 
 The project strengthens the capacity of the European meteorological data providers to comply with the HVD Implementing Regulation by:
 - Developing a user interface
-- Developing APIs for accessing weather observation data, climate data, weather radar data, warnings, and Artificial Intelligence (AI) datasets
+- Developing APIs for accessing weather observation data, climate data, weather radar data, warnings, and Artificial Intelligence (AI)
+datasets
 - Developing a data catalogue for making data discoverable
 - Engaging with the data owners and user communities
 - Supporting the deployment of national data portals and APIs
@@ -36,62 +38,34 @@ The project strengthens the capacity of the European meteorological data provide
 
 ## Impact on users
 
-The increased availability of data boosts entrepreneurship and potentially results in the creation of new companies. New open datasets are an important resource for small and
-medium-sized enterprises to develop new digital products and services. Reuse of data opens business opportunities for several sectors which ultimately leads attracting more
-investors. By making data much easier to use, reseach, academia, AI applications and many other application areas can utilize the data more efficiently.   
+The increased availability of data boosts entrepreneurship and potentially results in the creation of new companies. New open datasets
+are an important resource for small and medium-sized enterprises to develop new digital products and services. Reuse of data opens
+business opportunities for several sectors which ultimately leads attracting more investors. By making data much easier to use,
+reseach, academia, AI applications and many other application areas can utilize the data more efficiently.   
 
-Overall, better data availability leads to better warnings, forecasts, and services to the public and weather-critical industries, and contributes to the safe and efficient
-functioning of society with multiple benefits across the European economy, industry, and society.
+Overall, better data availability leads to better warnings, forecasts, and services to the public and weather-critical industries, and
+contributes to the safe and efficient functioning of society with multiple benefits across the European economy, industry, and
+society.
 
 ## Partners
 
-Ilmatieteen laitos, Finnish Meteorological Institute (FMI)
 
-![FMI logo](/assets/images/il-logo-fi-se-en-rgb-1860x345px.png "FMI logo")
-<img src="il-logo-fi-se-en-rgb-1860x345px.png" width="60%" height="60%">
+<img src="/assets/images/il-logo-fi-se-en-rgb-1860x345px.png" width="60%" height="60%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/DMI_RGB_UK.png" width="35%" height="35%">
 
-Danmarks Meteorologiske Institut, Danish Meteorological Institute (DMI)
-![DMI logo](/assets/images/DMI_Alt_RGB_UK_small.png "DMI logo")
+<img src="/assets/images/ECMWF_Master_Logo_RGB_nostrap.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/OMSZ_Logo.png" width="35%" height="35%">
+<br>
+<br>
+<br>
+<img src="/assets/images/IW_KNMI_Logo_online_ex_pos_en_adjusted.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="20%" height="20%">  
 
-European Centre for Medium-Range Weather Forecasts (ECMWF)
+<img src="/assets/images/LVGMC_full-2000.png" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourHorizontal.jpg" width="45%" height="45%">
 
-![ECMWF logo](/assets/images/ECMWF_Master_Logo_RGB_nostrap.png "ECMWF logo")
+<img src="/assets/images/MetNorway_RGB_Horisontal_ENG_adjusted.jpg" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/GeoSphereAustria_Basislogo_Positiv_RGB_XL.jpg" width="30%" height="30%"> 
+<br>
+<br>
+<br>
+<img src="/assets/images/IMO-Logo-EN-01-Blue.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/ANM_logo_horizontal.svg" width="35%" height="35%">
 
-Orszagos Meteorologiai Szolgalat, Hungarian Meteorological Service (OMSZ)
 
-![OMSZ logo](/assets/images/OMSZ_Logo.png "OMSZ logo")
 
-Bundesanstalt für Geologie, Geophysik, Klimatologie und Meteorologie, GeoSphere Austria
-
-![Geosphere logo](/assets/images/GeoSphereAustria_Basislogo_Positiv_RGB_XL.jpg "Geosphere logo")
-
-Koninklijk Nederlands Meteorologisch Institutt, Royal Netherlands Meteorological Institute (KNMI)
-
-![KNMI logo](/assets/images/IW_KNMI_Logo_online_ex_pos_en.png "KNMI logo")
-
-Latvijas Vides, Geologijas un Meteorologijas Centrs Sia, Latvian Environment, Geology and Meteorology Centre (LVGMC)
-
-![Latvia logo](/assets/images/LVGMC_full-2000.png "Latvia logo")
-
-EUMETNET Groupement D’Interet Economique, EUMETNET
-
-![EUMETNET logo](/assets/images/EUMETNETLogo_FullColourHorizontal.jpg "EUMETNET logo")
-
-Meteorologisk Institutt, Norwegian Meteorological Institute (Met Norway)
-
-![MetNo logo](/assets/images/MetNorway_RGB_Horisontal_ENG.jpg "MetNo logo")
-
-Administratia Nationala De Meteorologie R.A., National Administration of Meteorology of Romania (ANM)
-
-![ANM logo](/assets/images/ANM_logo_horizontal.svg "ANM logo")
-
-Vedurstofa Islands, Icelandic Meteorological Office (IMO)
-
-![IMO logo](/assets/images/IMO-Logo-EN-01-Blue.png "IMO logo")
-
-Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy, Institute of Meteorology and Water Management - National Research Institute of Poland (IMGW-PIB)
-
-![IMGW logo](/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png "IMGW logo") 
-
-Institut Royal Meteorologique de Belgique, NSTITUT ROYAL METEOROLOGIQUE DE Belgique, Royal Meteorological Institute of Belgium (IRM)
 
