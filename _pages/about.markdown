@@ -48,11 +48,10 @@ functioning of society with multiple benefits across the European economy, indus
 Ilmatieteen laitos, Finnish Meteorological Institute (FMI)
 
 ![FMI logo](/assets/images/il-logo-fi-se-en-rgb-1860x345px.png "FMI logo")
-      <img src="FMI logo" width="60%" height="80%">
+<img src="il-logo-fi-se-en-rgb-1860x345px.png" width="60%" height="60%">
 
 Danmarks Meteorologiske Institut, Danish Meteorological Institute (DMI)
-
-![DMI logo](/assets/images/DMI_RGB_UK_small.png "DMI logo")
+![DMI logo](/assets/images/DMI_Alt_RGB_UK_small.png "DMI logo")
 
 European Centre for Medium-Range Weather Forecasts (ECMWF)
 
