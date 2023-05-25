@@ -7,8 +7,8 @@ classes: wide
 
 # Introduction
 
-A project called the Provision of Open Access to Public Meteorological Data and Development of Shared Federated Data Infrastructure for the Development of Information Products
-and Services (RODEO) is a joint effort by eleven European National Meteorological and Hydrological Services (NMHS), the European Centre for Medium-Range Weather
+A project called RODEO, the Provision of Open Access to Public Meteorological Data and Development of Shared Federated Data Infrastructure for the Development of Information Products
+and Services is a joint effort by eleven European National Meteorological and Hydrological Services (NMHS), the European Centre for Medium-Range Weather
 Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). [The Project Partners](https://eurodeo.github.io/about#partners) are listed in a section below. 
 
 The RODEO project develops a user interface and Application Programming Interfaces (API) for accessing meteorological datasets declared as High Value Datasets (HVD) by the EU
@@ -24,8 +24,9 @@ The project is funded by the EU Digital Europe Program (DIGITAL) and EUMETNET.
 ## Project Aims & Goals
 
 The project makes meteorological High Value Datasets easily available with an aim to bring new data to businesses, public
-administrations and citizens. The project reinforces
-the European public meteorological data infrastructure and enhances the providers’ digital capacity to share data.
+administrations and citizens. It reinforces
+the European public meteorological data infrastructure and enhances the providers’ digital capacity to share data. Furthermore, the project also fosters the engagement between 
+data providers and data users for enhancing the understanding of technical solutions to be available for sharing and accessing the datasets.
 
 The project strengthens the capacity of the European meteorological data providers to comply with the HVD Implementing Regulation by:
 - Developing a user interface
@@ -40,7 +41,7 @@ datasets
 
 The increased availability of data boosts entrepreneurship and potentially results in the creation of new companies. New open datasets
 are an important resource for small and medium-sized enterprises to develop new digital products and services. Reuse of data opens
-business opportunities for several sectors which ultimately leads attracting more investors. By making data much easier to use,
+business opportunities for several sectors ultimately leads attracting more investors. By making data much easier to use,
 reseach, academia, AI applications and many other application areas can utilize the data more efficiently.   
 
 Overall, better data availability leads to better warnings, forecasts, and services to the public and weather-critical industries, and
