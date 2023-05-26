@@ -9,7 +9,7 @@ classes: wide
 
 A project called RODEO, the Provision of Open Access to Public Meteorological Data and Development of Shared Federated Data Infrastructure for the Development of Information Products
 and Services is a joint effort by eleven European National Meteorological and Hydrological Services (NMHS), the European Centre for Medium-Range Weather
-Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). [The Project Partners](https://eurodeo.github.io/about#partners) are listed in a section below. 
+Forecasts (ECMWF) and the network of 31 European National Meteorological and Hydrological Services (EUMETNET). [The Project Partners] (https://eurodeo.github.io/partners/) are listed in a section below. 
 
 The RODEO project develops a user interface and Application Programming Interfaces (API) for accessing meteorological datasets declared as High Value Datasets (HVD) by the EU
 Implementing Regulation (EU) 2023/138 under the EU Open Data Directive (EU) 2019/1024. The project also fosters the engagement between data providers and data users for
@@ -47,29 +47,3 @@ reseach, academia, AI applications and many other application areas can utilize 
 Overall, better data availability leads to better warnings, forecasts, and services to the public and weather-critical industries, and
 contributes to the safe and efficient functioning of society with multiple benefits across the European economy, industry, and
 society.
-
-## Partners
-
-
-<img src="/assets/images/il-logo-fi-se-en-rgb-1860x345px.png" width="60%" height="60%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/DMI_RGB_UK.png" width="35%" height="35%">
-<br>
-<br>
-<img src="/assets/images/ECMWF_Master_Logo_RGB_nostrap.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/GeoSphereAustria_Basislogo_Positiv_RGB_XL.jpg" width="30%" height="30%"> 
-<br>
-<br>
-<br>
-<img src="/assets/images/IW_KNMI_Logo_online_ex_pos_en.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="20%" height="20%">  
-
-<img src="/assets/images/LVGMC_full-2000.png" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourHorizontal.jpg" width="45%" height="45%">
-<br>
-<br>
-<br>
-<img src="/assets/images/MetNorway_RGB_Horisontal_ENG_adjusted.jpg" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/ANM_logo_horizontal.svg" width="35%" height="35%"> 
-<br>
-<br>
-<br>
-<img src="/assets/images/IMO-Logo-EN-01-Blue.png" width="40%" height="40%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/OMSZ_Logo.png" width="35%" height="35%"> 
-
-
-
-
