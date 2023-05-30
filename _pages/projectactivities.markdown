@@ -41,11 +41,11 @@ preparedness and response at both the national and international level.
 
 ## User engagement and communications
 
-The engagement with both the data provider community and the user community is crucial for the success of the project. 
+Successful engagement with both the data owner community and the user community is crucial for the success of RODEO. 
 
 This activity supports the other project activities on their communications with both the providers and the users, with appropriate communications channels being used for each
 group. The activity ensures that the developed project components are usable by developing onboarding processes, guidance and user material and carrying out testing of the
 components by projects partners. 
 
-The activity engages with end users through the Project External Advisory Board, a user group, user surveys, and seminars. On the other hand, the activity improves public
-administrations’ knowledge of HVD regulation and its impact, share best practices and tools to facilitate sharing of HVDs, and to foster uptake and use of HVDs.
+The activity engages with end users through the Project External Advisory Board, a user group, user surveys, and seminars to facilitate sharing of HVDs, and to foster uptake and use of HVDs. This activity also improves public
+administrations’ knowledge of the HVD regulation and their benefits to the economy, especially SMEs.
