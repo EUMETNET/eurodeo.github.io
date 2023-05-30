@@ -15,7 +15,7 @@ classes: wide
 <br>
 <br>
 <br>
-<img src="/assets/images/IW_KNMI_Logo_online_ex_pos_en.png" width="30%" height="30%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="15%" height="15%">  
+<img src="/assets/images/IW_KNMI_Logo_online_ex_pos_en.png" width="30%" height="30%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/IMGW-PIB_LOGO_PODSTAWOWE_EN_RGB.png" width="15%" height="15%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/RMI logo.jpg" width="13%" height="13%"> 
 
 <img src="/assets/images/LVGMC_full-2000.png" width="35%" height="35%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourHorizontal.jpg" width="35%" height="35%">
 <br>
