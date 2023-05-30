@@ -37,7 +37,12 @@ preparedness and response at both the national and international level.
 
 ## Weather radar data
 
-## Machine learning datasets
+## AI datasets
+
+The applications of enhanced meteorological data support Artificial Intelligence (AI) by making meteorological data much easier to use for AI applications
+and increasing the level of data available across Europe. The project opens dedicated datasets ready for AI ingestion by data consumers to further
+illustrate to consumers the uses of the data to various purposes. The meteorological community is also an active developer of AI solutions and will itself
+also greatly benefit from the outcomes of this project.
 
 ## User engagement and communications
 
