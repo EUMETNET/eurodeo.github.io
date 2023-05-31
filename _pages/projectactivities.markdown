@@ -9,6 +9,15 @@ classes: wide
 
 ## User interface
 
+The User interface project activity creates a ‘One-Stop Shop’ for meteorological data and information in Europe, known as FEMDI (Federated European Meteo-hydrological Data Infrastructure). FEMDI provides an
+integrated view of all the data available through the RODEO project, and provide the ability to access it - while leaving data where it is. 
+
+The focus of the project activity is to develop and implement the FEMDI Community components needed to deliver shared capabilities: Data catalogue; Message broker; and, Data access (API Management). The work is closely
+aligned with the development of WMO’s WIS 2.0. 
+
+Once operational, the User Interface is useable by Data Publishers and Data Consumers inside and outside the hydro-meteorological community.
+
+
 ## Real-time surface weather observations
 
 The objective of this project activity is to provide a sustainable and standardized system for sharing real-time surface weather observations in line with the World
