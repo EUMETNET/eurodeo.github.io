@@ -29,7 +29,7 @@ observations in line with the HVD regulation and WMO WIS 2.0 strategy. The real-
 are made available through open web services, so that they can be accessed by anyone. 
 
 An API for all observation variables is developed to provide data from the meteorological data providers. The
-system architechture is portable, scalable and modular system for taking into account possible extension to
+system architecture is portable, scalable and modular system for taking into account possible extension to
 additional networks and datasets (e.g. 3rd party surface observations) in the future.
 
 ## Warnings
