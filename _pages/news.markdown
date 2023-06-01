@@ -9,7 +9,7 @@ classes: wide
 
 The conference programme will be publish at the end of June 2023.
 
-<img src="/assets/images/EMS-2023-advertisement.jpg" width="60%" height="60%"> 
+<img src="/assets/images/EMS-2023-advertisement.jpg" width="50%" height="50%"> 
 
 ## Meet RODEO at DataWeek 2023, 13-15 June 2023 in Luleå
 
