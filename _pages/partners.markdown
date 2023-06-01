@@ -5,6 +5,10 @@ permalink: /partners/
 classes: wide
 ---
 
+## Funders
+
+<img src="/assets/images/Logo_vertical_Co-funded by the EU.jpg" width="15%" height="15%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/EUMETNETLogo_FullColourSquare.jpg" width="15%" height="15%">
+
 ## Project Partners
 
 <img src="/assets/images/il-logo-fi-se-en-rgb-1860x345px.png" width="45%" height="45%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/DMI_RGB_UK.png" width="25%" height="25%">
@@ -26,21 +30,3 @@ classes: wide
 <br>
 <br>
 <img src="/assets/images/IMO-Logo-EN-01-Blue.png" width="30%" height="30%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/assets/images/OMSZ_Logo.png" width="25%" height="25%"> 
-<br>
-<br>
-## External Advisory Board Members
-
-A list of External Advisory Board members?
-
-## Stakeholders and their related activities
-
-EUMETNET 
-- EMMA: [EUMETNET EMMA](https://www.eumetnet.eu/activities/forecasting-programme/current-activities-fc/emma/)
-- OPERA https://www.eumetnet.eu/activities/observations-programme/current-activities/opera/
-- FEMDI & E-SOH
-
-WMO Information System WIS2.0: https://community.wmo.int/en/activity-areas/wis
-
-The Digital Europe Programme: https://digital-strategy.ec.europa.eu/en/activities/digital-programme
-
-Data Spaces Support Centre: https://dssc.eu/
