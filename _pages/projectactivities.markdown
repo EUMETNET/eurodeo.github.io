@@ -77,7 +77,7 @@ facilitating radar cooperation among national weather services in Europe for ove
 independent data model, operates data centres, and generates Pan-European radar composites.
 
 The main objective of this project activity is to provide API access to radar data and developed products, aligning
-with the WMO WIS 2.0 strategy and the HVD regulation. The shared datasets include European radar composites in
+with the HVD regulation. The shared datasets include European radar composites in
 real-time and an archive spanning over 10 years. Additionally, the activity provides a cache of 24-hour operational
 exchangedradar volume data and an extensive archive of radar volume data in Europe, which can be used, for example,
 for AI training purposes. Furthermore, in compliance with the HVD regulations, the project aims to make national
