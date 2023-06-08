@@ -5,14 +5,14 @@ permalink: /faq/
 classes: wide
 ---
 
-## What does the acronym of RODEO stand for?
+## What does the acronym RODEO stand for?
 The provision of Open Access to Public meteorological Data and Development of Shared federated Data Infrastructure for the Development of information Products and Services.
 
-## What are the Aims of the RODEO project?
-To enable EU based European meteorological Institutes to comply with [the High Value dataset (HVD) regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.019.01.0043.01.ENG).
+## What are the aims of the RODEO project?
+To enable EU-based European meteorological Institutes to comply with [the High Value dataset (HVD) regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.019.01.0043.01.ENG).
 
 ## Is the RODEO project funded by the European Union?
-Yes, the RODEO project is partially funded by the European Union. The rest of the funding is provided by the members of EUMETNET, the network of meteorological services within Europe
+Yes, the RODEO project is partially funded by the European Union. The rest of the funding is provided by the members of EUMETNET, the network of 31 meteorological services within Europe.
 
 ## What will the RODEO project deliver?
 - A user interface
