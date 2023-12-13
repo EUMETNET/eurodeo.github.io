@@ -5,6 +5,12 @@ permalink: /news/
 classes: wide
 ---
 
+## Meet RODEO at 104th AMS Annual Meeting, 28 January–1 February 2024, Baltimore Maryland
+
+The conference web pages are available at [AMS 2024](https://annual.ametsoc.org/index.cfm/2024/).
+
+<img src="/assets/images/AMS2024.png" width="50%" height="50%">
+
 ## Meet RODEO at EMS Annual Meeting 2023, EMS2023, 3-8 September 2023 in Bratislava, Slovakia
 
 The conference programme is available [on the EMS2023 website](https://meetingorganizer.copernicus.org/EMS2023/sessionprogramme).
