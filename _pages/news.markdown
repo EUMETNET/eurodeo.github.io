@@ -17,6 +17,8 @@ The conference programme is available [on the EMS2023 website](https://meetingor
 
 The project presentation will be given as a part of session ES1.5 – Open Data - data, application development, impact. The details are available [in the programme](https://meetingorganizer.copernicus.org/EMS2023/session/47568#Orals).
 
+<file src="/assets/RODEO presentation_AMS2024.pdf">
+
 Come and meet us at the venue!
 
 <img src="/assets/images/EMS-2023-advertisement.jpg" width="50%" height="50%"> 
