@@ -5,6 +5,16 @@ permalink: /news/
 classes: wide
 ---
 
+## New Pre-Release: MeteoAlarm CAP Profile v2.0 and MeteoAlarm StyleGuide v1.0
+
+We are pleased to announce the pre-release of the MeteoAlarm CAP Profile v2.0 and the MeteoAlarm StyleGuide v1.0, now accessible on [MeteoAlarm](https://meteoalarm.org/en/live/page/redistribution-hub#list). Developed under the RODEO Project, these documents represent significant achievements in standardising weather warnings and enhancing the harmonisation of their presentation across services provided by redistributors. This harmonisation makes it easier for users to take early action by ensuring weather warnings are clear and consistent, thereby improving public safety and awareness.
+
+## Meet RODEO at the CAP Implementation Workshop 2024, 22-24 October 2024, in Leuven, Belgium
+
+The workshop programme is available at [CAP Implementation Workshop 2024](https://cap-workshop.alert-hub.org/2024/programme.pdf)
+ 
+The project will be presented as part of the presentation titled “MeteoAlarm's Progress and Engagement in the RODEO Project”.
+
 ## Meet RODEO at 104th AMS Annual Meeting, 28 January–1 February 2024, Baltimore Maryland
 
 The conference web pages are available at [AMS 2024](https://annual.ametsoc.org/index.cfm/2024/).
