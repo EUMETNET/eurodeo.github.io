@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 classes: wide
 ---
+## Take a minute to respond to the RODEO User Survey! 
+
+As the RODEO project starts to roll out first of its deliverables and data will be available more widely in 2025, we would like to take this opportunity to ask our user community for your input. We are interested especially what information is relevant to you and for what use cases you envisage using the weather and climate information. This is important for us as we develop specifications for operations, Quality of Service and scope the future of the assets developed in the project. 
+
+We hope that you take the time to respond to our [short survey](https://emea.dcv.ms/8TpltwgLaG) by clicking on the link. The Survey will remain open until the **end of October 2024**. 
+
 
 ## New Pre-Release: MeteoAlarm CAP Profile v2.0 and MeteoAlarm StyleGuide v1.0
 
