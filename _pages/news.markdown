@@ -55,7 +55,8 @@ Come and meet us at the venue!
 
 An introduction to the project was presented at DataWeek session [Towards the implementation of High Value Datasets – First hands on](https://data-week.eu/session/towards-the-implementation-of-high-value-datasets-first-hands-on/) along with its sister DIGITAL AI projects. The presentation given is available through the link.
 
-<img src="https://github.com/EURODEO/eurodeo.github.io/blob/main/assets/images/DataWeek2023.png" width="50%" height="50%">
+<img src="/assets/images/DataWeek2023_small.png" width="50%" height="50%">
+
 
 ## Project Kick-off Meeting held 1-2 March 2023
 
