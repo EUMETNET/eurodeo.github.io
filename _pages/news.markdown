@@ -34,6 +34,7 @@ The project will be presented as part of the presentation titled “MeteoAlarm's
 ## Meet RODEO at 104th AMS Annual Meeting, 28 January–1 February 2024, Baltimore Maryland
 
 The conference web pages are available at [AMS 2024](https://annual.ametsoc.org/index.cfm/2024/).
+[Presentation](../assets/RODEO presentation_AMS2024.pdf)
 
 <img src="/assets/images/AMS2024.png" width="50%" height="50%">
 
@@ -42,8 +43,6 @@ The conference web pages are available at [AMS 2024](https://annual.ametsoc.org/
 The conference programme is available [on the EMS2023 website](https://meetingorganizer.copernicus.org/EMS2023/sessionprogramme).
 
 The project presentation will be given as a part of session ES1.5 – Open Data - data, application development, impact. The details are available [in the programme](https://meetingorganizer.copernicus.org/EMS2023/session/47568#Orals).
-
-<file src="/assets/RODEO presentation_AMS2024.pdf">
 
 Come and meet us at the venue!
 
