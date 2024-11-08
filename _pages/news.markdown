@@ -18,12 +18,13 @@ Cooperating Third Parties.
 
 As the RODEO project starts to roll out first of its deliverables and data will be available more widely in 2025, we would like to take this opportunity to ask our user community for your input. We are interested especially what information is relevant to you and for what use cases you envisage using the weather and climate information. This is important for us as we develop specifications for operations, Quality of Service and scope the future of the assets developed in the project. 
 
-We hope that you take the time to respond to our [short survey](https://emea.dcv.ms/8TpltwgLaG) by clicking on the link. The Survey will remain open until the **end of October 2024**. 
+We hope that you take the time to respond to our [short survey](https://emea.dcv.ms/8TpltwgLaG) by clicking on the link. The Survey will remain open until the **end of December 2024**. 
 
 
 ## New Pre-Release: MeteoAlarm CAP Profile v2.0 and MeteoAlarm StyleGuide v1.0
 
 We are pleased to announce the pre-release of the MeteoAlarm CAP Profile v2.0 and the MeteoAlarm StyleGuide v1.0, now accessible on [MeteoAlarm](https://meteoalarm.org/en/live/page/redistribution-hub#list). Developed under the RODEO Project, these documents represent significant achievements in standardising weather warnings and enhancing the harmonisation of their presentation across services provided by redistributors. This harmonisation makes it easier for users to take early action by ensuring weather warnings are clear and consistent, thereby improving public safety and awareness.
+
 
 ## Meet RODEO at the CAP Implementation Workshop 2024, 22-24 October 2024, in Leuven, Belgium
 
@@ -31,12 +32,13 @@ The workshop programme is available at [CAP Implementation Workshop 2024](https:
  
 The project will be presented as part of the presentation titled “MeteoAlarm's Progress and Engagement in the RODEO Project”.
 
+
 ## Meet RODEO at 104th AMS Annual Meeting, 28 January–1 February 2024, Baltimore Maryland
 
-The conference web pages are available at [AMS 2024](https://annual.ametsoc.org/index.cfm/2024/).
-[Presentation](../assets/RODEO presentation_AMS2024.pdf)
+The conference web pages are available at [AMS 2024](https://annual.ametsoc.org/index.cfm/2024/). The presentation given can be found [here](https://github.com/EURODEO/eurodeo.github.io/blob/main/assets/RODEO%20presentation_AMS2024.pdf).
 
 <img src="/assets/images/AMS2024.png" width="50%" height="50%">
+
 
 ## Meet RODEO at EMS Annual Meeting 2023, EMS2023, 3-8 September 2023 in Bratislava, Slovakia
 
@@ -48,11 +50,12 @@ Come and meet us at the venue!
 
 <img src="/assets/images/EMS-2023-advertisement.jpg" width="50%" height="50%"> 
 
+
 ## Meet RODEO at DataWeek 2023, 13-15 June 2023 in Luleå
 
 An introduction to the project was presented at DataWeek session [Towards the implementation of High Value Datasets – First hands on](https://data-week.eu/session/towards-the-implementation-of-high-value-datasets-first-hands-on/) along with its sister DIGITAL AI projects. The presentation given is available through the link.
 
-![DataWeek!](/assets/images/DataWeek2023_small.png "DataWeek")
+<img src="/assets/images/DataWeek2023_small.png" width=50% height=50%>
 
 ## Project Kick-off Meeting held 1-2 March 2023
 
