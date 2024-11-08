@@ -4,6 +4,17 @@ title: News
 permalink: /news/
 classes: wide
 ---
+## Invitation to Workshop on: Develop your own EDR API from scratch. 8.-9. April 2025
+
+New IT infrastructure is being developed by National Meteorological and Hydrological Services (NMHSs) to exchange national High Value Datasets (HVD) with the public under the EU Open Data Directive 2019/1024.To make this feasible, NMHSs are developing APIs (Application Programming Interfaces) that allow the automatic transfer of data for specific data demands. The API standard used in RODEO is the Open eospatial Consortium (OGC) Environmental Data Retrieval (EDR) API. This is an international standard for the retrieval of environmental data.
+
+The workshop targets software developers who will build OGC EDR APIs. The workshop is organised by the
+EUMETNET Climate programme and RODEO WP5 on Climate data for all EUMETNET Members and
+Cooperating Third Parties.
+
+**Please, register** by the 21st of March 2025 to secure your spot! For registration, please follow the link:
+https://docs.google.com/forms/d/e/1FAIpQLSccmLLy236j_U2uwZ1TtyBm6ex70O56DIRX6A2Ab-kRI6yRHg/viewform?usp=sf_link (in case you have a problem when clicking on the link, please consider copying the link to your browser).
+
 ## Take a minute to respond to the RODEO User Survey! 
 
 As the RODEO project starts to roll out first of its deliverables and data will be available more widely in 2025, we would like to take this opportunity to ask our user community for your input. We are interested especially what information is relevant to you and for what use cases you envisage using the weather and climate information. This is important for us as we develop specifications for operations, Quality of Service and scope the future of the assets developed in the project. 
