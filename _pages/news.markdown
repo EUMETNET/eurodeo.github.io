@@ -12,10 +12,7 @@ The workshop targets software developers who will build OGC EDR APIs. The worksh
 EUMETNET Climate programme and RODEO WP5 on Climate data for all EUMETNET Members and
 Cooperating Third Parties.
 
-**Please, register** by the 21st of March 2025 to secure your spot! 
-
-<p> <a href="https://docs.google.com/forms/d/e/1FAIpQLSccmLLy236j_U2uwZ1TtyBm6ex70O56DIRX6A2Ab-kRI6yRHg/viewform?usp=sf_link">For registration the link.</a> <p>
-
+**Please, register** by the 21st of March 2025 to secure your spot! [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSccmLLy236j_U2uwZ1TtyBm6ex70O56DIRX6A2Ab-kRI6yRHg/viewform?usp=sf_link)
 
 ## Take a minute to respond to the RODEO User Survey! 
 
