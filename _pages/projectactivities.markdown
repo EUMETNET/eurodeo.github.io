@@ -9,7 +9,7 @@ classes: wide
 
 ## User interface - MeteoGate
 
-The user interface project activity creates a ‘One-Stop Shop’ for meteorological data and information in Europe,
+The user interface is called MeteoGate. This project activity creates a ‘One-Stop Shop’ for meteorological data and information in Europe,
 following the EUMETNET FEMDI (Federated European Meteo-hydrological Data Infrastructure) initiative. FEMDI provides
 an integrated view of all the data available through the RODEO project, and provides the ability to access it 
 while leaving data where it is. 
