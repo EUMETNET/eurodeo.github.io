@@ -5,8 +5,8 @@ permalink: /deliverables/
 classes: wide
 ---
 ## Under Construction
-| Deliverable | Description        | File                                |
-|-------------|--------------------|-------------------------------------|
-| Report      | Final project doc  | [report.pdf](assets/report.pdf)     |
-| Slides      | Presentation deck  | [slides.pptx](assets/slides.pptx)   |
-| Code        | Source repository  | [main.zip](assets/main.zip)         |
+| Deliverable | Description                | File                                |
+|-------------|----------------------------|-------------------------------------|
+| WP2 D4      | Full Detailed Design       | [report.pdf](assets/report.pdf)     |
+|-------------|----------------------------|-------------------------------------|
+
