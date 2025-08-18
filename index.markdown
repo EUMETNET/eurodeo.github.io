@@ -23,6 +23,12 @@ feature_row:
     url: "/projectactivities"
     excerpt: "Introduction to the project content and activities. Description of plans for providing tools to access open meteorological data."
     btn_label: "Explore more"
+    image_path: /assets/images/img-sample-02.webp
+    alt: "rodeo2"
+    title: "Deliverables"
+    url: "/deliverables"
+    excerpt: "Project public technical deliverables."
+    btn_label: "Explore more"
   - image_path: /assets/images/img-sample-02.webp
     alt: "rodeo2"
     title: "News"
