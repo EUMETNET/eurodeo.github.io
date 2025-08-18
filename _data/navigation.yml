@@ -5,6 +5,8 @@ main:
     url: /partners/
   - title: Project Activities
     url: /projectactivities/
+    title: Deliverables
+    url: /deliverables/
   - title: News
     url: /news/
   - title: FAQ
