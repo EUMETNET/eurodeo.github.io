@@ -4,6 +4,16 @@ title: News
 permalink: /news/
 classes: wide
 ---
+
+## European radar data now available for testing via Open Radar Data (ORD) API:
+
+As part of the EU- and EUMETNET-funded RODEO - project, partners have developed MeteoGate, a new 
+platform to discover and download meteorological data. One of its local services is the Open Radar Data 
+(ORD) API, which provides access to OPERA single-site radar volume data, OPERA composite products and 
+demonstration of national radar-based products via links to national archives.
+
+The full Newsletter can be found [here](https://github.com/EURODEO/eurodeo.github.io/blob/main/assets/ORD_API_newsletter_17102025_vs2.pdf) 
+
 ## Invitation to Workshop on: Develop your own EDR API from scratch. 8.-9. April 2025
 
 New IT infrastructure is being developed by National Meteorological and Hydrological Services (NMHSs) to exchange national High Value Datasets (HVD) with the public under the EU Open Data Directive 2019/1024.To make this feasible, NMHSs are developing APIs (Application Programming Interfaces) that allow the automatic transfer of data for specific data demands. The API standard used in RODEO is the Open eospatial Consortium (OGC) Environmental Data Retrieval (EDR) API. This is an international standard for the retrieval of environmental data.
